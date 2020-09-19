@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://www.instagram.com/p/B6Ygk_BhkuWch9n_2rHyoTkZbEYOL3CaV-onuQ0/">
+<img src="https://drive.google.com/file/d/10wCtAdXNiHzTz7s13PSC3ZP5dzyfg0Vt/view?usp=sharing">
 <!--
 **anishpai/anishpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
