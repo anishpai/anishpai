@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/anishpai/CV/blob/master/propic.jpg" width="200" height = "175">
+<img src="https://github.com/anishpai/CV/blob/master/propic.jpg" width="259" height = "227">
 <!--
 **anishpai/anishpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
