@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/anishpai/CV/blob/master/propic.jpg" width="259" height = "227">
+<img src="https://github.com/anishpai/CV/blob/master/propic.jpg" width="259" height = "227" style="border:5px solid black">
 
 <hr background_color="red" size="10">
 <p align="center">
