@@ -4,7 +4,9 @@
 ### Hi! I'm Anish
 <hr background_color="red" size="10">
 ### About Me! 🙋‍♂️
-
+* Aeronautical Engineer✈️
+* Tech Enthusiast
+* Building Coding Skills💻
 <hr>
   <i>Connect with me.</i>
 <p align="center">
