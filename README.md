@@ -1,5 +1,11 @@
 ### Hi there 👋
 <img src="https://github.com/anishpai/CV/blob/master/propic.jpg" width="259" height = "227">
+
+<hr background_color="red" size="10">
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+<p align="center">
+    <a href="https://twitter.com/realAnishPai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/twitter.png"></a>
 <!--
 **anishpai/anishpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
