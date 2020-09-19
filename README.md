@@ -3,9 +3,7 @@
 
 ### Hi! I'm Anish
 <hr background_color="red" size="10">
-### About Me!
-<p><img src="https://github.com/anishpai/CV/blob/master/aboutme.png" alt="Smiley face" width="42" height="42" style="vertical-align:middle;margin:50px 0px"></p>
-<p align="center">
+### About Me! 🙋‍♂️
   <i>Connect with me.</i>
 <p align="center">
     <a href="https://twitter.com/realAnishPai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/twitter.png"></a>
