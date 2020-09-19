@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img src="https://github.com/anishpai/CV/blob/master/propic.jpg" width="259" height = "227" style="border:5px solid black">
 
+### Hi! I'm Anish
 <hr background_color="red" size="10">
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
