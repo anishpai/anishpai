@@ -4,6 +4,8 @@
 ### Hi! I'm Anish
 <hr background_color="red" size="10">
 ### About Me! 🙋‍♂️
+
+<hr>
   <i>Connect with me.</i>
 <p align="center">
     <a href="https://twitter.com/realAnishPai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/twitter.png"></a>
