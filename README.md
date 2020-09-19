@@ -3,10 +3,13 @@
 
 ### Hi! I'm Anish
 <hr background_color="red" size="10">
+### About me! <img src="https://github.com/anishpai/CV/blob/master/twitter.png">
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Connect with me.</i>
 <p align="center">
     <a href="https://twitter.com/realAnishPai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/twitter.png"></a>
+    <a href="https://linkedin.com/anishpai" alt="LinkedIn"><img src="https://github.com/anishpai/CV/blob/master/linkedin.png"></a>
+    <a href="https://instagram.com/anish_pai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/insta.png"></a>
 <!--
 **anishpai/anishpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
