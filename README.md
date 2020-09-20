@@ -26,8 +26,7 @@
             <ul>
                 <li> <a href = "https://www.goodreads.com/book/show/100132.Irrational_Exuberance">Irrational Exhuberance</a> by Robert Shiller</li>
                 <li> <a href = "https://www.goodreads.com/book/show/18050143-zero-to-one">Zero to one</a> by Peter Thiel </li>
-            </ul
-        
+            </ul>
     </ul>
 </div>
 <div align="center">
