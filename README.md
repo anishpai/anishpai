@@ -29,13 +29,12 @@
             </ul>
     </ul>
 </div>
-<div align="center">
+
     <h5><i>Connect with me</i></h5>
     <a href = "mailto: paianish5@gmail.com">Email Me</a>
-</div>
+
 
 <p align="center">
-    
     <a href="https://twitter.com/realAnishPai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/twitter.png"></a>
     <a href="https://linkedin.com/anishpai" alt="LinkedIn"><img src="https://github.com/anishpai/CV/blob/master/linkedin.png"></a>
     <a href="https://instagram.com/anish_pai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/insta.png"></a>
