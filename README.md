@@ -29,10 +29,10 @@
             </ul>
     </ul>
 </div>
-
+<p align="center">
     <h5><i>Connect with me</i></h5>
     <a href = "mailto: paianish5@gmail.com">Email Me</a>
-
+</p>
 
 <p align="center">
     <a href="https://twitter.com/realAnishPai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/twitter.png"></a>
