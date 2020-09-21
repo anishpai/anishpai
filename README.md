@@ -36,7 +36,7 @@
 
 <p align="center">
     <a href="https://twitter.com/realAnishPai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/twitter.png"></a>
-    <a href="https://linkedin.com/anishpai" alt="LinkedIn"><img src="https://github.com/anishpai/CV/blob/master/linkedin.png"></a>
+    <a href="https://www.linkedin.com/in/anishpai/" alt="LinkedIn"><img src="https://github.com/anishpai/CV/blob/master/linkedin.png"></a>
     <a href="https://instagram.com/anish_pai" alt="Twitter"><img src="https://github.com/anishpai/CV/blob/master/insta.png"></a>
 </p>
 
