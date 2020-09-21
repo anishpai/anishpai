@@ -45,11 +45,11 @@
 <br>
 <h2> Projects at a Glance </h2>
 <ul>
-    <li>Machine Learning</li>
+    <li><h4>Machine Learning</h4></li>
 <ul>
     <li><a href = "https://github.com/anishpai/MachineLearning-Projects/blob/master/Concrete%20Data:%20Fitting%20a%20Linear%20Model/concrete-data-fitting-a-linear-model.ipynb">Concrete Data: Fitting a Linear Model</a></li>
     <li><a href = "https://github.com/anishpai/MachineLearning-Projects/blob/master/Credit%20Card%20Fraud%20Detection/Credit_Card%20Fraud%20Det-checkpoint.ipynb">Credit Card Fraud Detection: Handling Imbalanced Data</a></li>
 </ul>
-    <li><a href = "https://github.com/anishpai/Project-Euler/blob/master/README.md"> Project Euler</a></li>
+    <li><a href = "https://github.com/anishpai/Project-Euler/blob/master/README.md"><h4> Project Euler</h4></a></li>
     
 </ul>
