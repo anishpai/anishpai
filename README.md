@@ -29,7 +29,7 @@
             </ul>
     </ul>
 </div>
-<p align="center">
+<p align-text="center">
     <h5><i>Connect with me</i></h5>
     <a href = "mailto: paianish5@gmail.com">Email Me</a>
 </p>
