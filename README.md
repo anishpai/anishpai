@@ -53,4 +53,4 @@
     <li><a href = "https://github.com/anishpai/Project-Euler/blob/master/README.md"><strong> Project Euler</strong></a></li>
     
 </ul>
-![](https://komarev.com/ghpvc/?username=anishpai)
+![](https://komarev.com/ghpvc/?username=anishpai&color=green)
