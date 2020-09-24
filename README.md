@@ -53,4 +53,6 @@
     <li><a href = "https://github.com/anishpai/Project-Euler/blob/master/README.md"><strong> Project Euler</strong></a></li>
     
 </ul>
-![](https://komarev.com/ghpvc/?username=anishpai&color=green)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=anishpai">
+</a>
