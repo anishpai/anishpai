@@ -13,7 +13,7 @@
   <li>🎓MIT'20 Manipal | Aeronautical Engineer✈️ | Data Science🧬</li>
   <li>⚡Tech Enthusiast</li>
   <li>Currently working on Web Development🕸️ | Machine Learning🤖 </li>
-  <li>Solving one Euler problem a day <a href="https://projecteuler.net/">Project Euler</a></li>
+  <li>Solving one Euler problem a day <a href="https://github.com/anishpai/Project-Euler/blob/master/README.md">Project Euler</a></li>
 </ul>
 <hr>
 <div>
