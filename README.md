@@ -20,7 +20,7 @@
     <p><h4>Some more things about me!</h4></p>
     <ul>
         <li>Cyclist, Adventurer and Budding Coder</li>
-        <li>Winner of National Aerospace Conceptual Design Competition <a href="https://timesofindia.indiatimes.com/home/education/news/manipal-students-bag-first-prize-for-uav-design/articleshow/70903855.cms">Check this out!!!</a></li>
+        <li>Winner of National Aerospace Conceptual Design Competition <a href="https://timesofindia.indiatimes.com/home/education/news/manipal-students-bag-first-prize-for-uav-design/articleshow/70903855.cms"><strong>Check this out!!!</strong></a></li>
         <li>Once my boss told me "Dress for the job you want and not the job you have!" And now I'm sitting in a disciplinary meeting dressed as <strong>Batman</strong>🦇</li>
         <li>Currently reading:</li>
             <ul>
