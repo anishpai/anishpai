@@ -26,6 +26,7 @@
             <ul>
                 <li> <a href = "https://www.goodreads.com/book/show/100132.Irrational_Exuberance">Irrational Exhuberance</a> by Robert Shiller</li>
                 <li> <a href = "https://www.goodreads.com/book/show/18050143-zero-to-one">Zero to one</a> by Peter Thiel </li>
+                <li> <a href = "https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book">Zero to one</a> by Ian Goodfellow, Yoshua Bengio, Aaron Courville </li>
             </ul>
     </ul>
 </div>
