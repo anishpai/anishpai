@@ -1,10 +1,5 @@
-### Hi there 👋
-<p><img src="https://github.com/anishpai/CV/blob/master/propic.jpg" width="259" height = "227" style="border:3px solid black" display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;></p><br>
+### Hi there 👋 I'm Anish
 
-<h3>Hi! I'm Anish</h3>
 <hr background_color="red">
 <h3>About Me! 🙋‍♂️</h3>
 
