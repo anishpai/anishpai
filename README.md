@@ -4,7 +4,7 @@
 <h3>About Me! 🙋‍♂️</h3>
 
 <ul>
-    <li>Tech Analyst @ Starburst Aerospace</li>
+    <li>Analyst @ Venture Catalysts</li>
   <li>🎓MIT'20 Manipal | Aeronautical Engineer✈️ | Data Science🧬</li>
   <li>⚡Tech Enthusiast</li>
   <li>Currently working on Web Development🕸️ | Machine Learning🤖 </li>
